@@ -3,7 +3,7 @@ This project is a web app to create DnD characters and access them!
 
 This app is made using Django and was made to use a SQLite database.
 
-##Running Locally
+## Running Locally
 To run locally, you'll need to create a virtual environment, create a secret key, install packages, create a superuser, and then start the local server.
 
 1. After cloning the project, run `python -m venv .venv`
